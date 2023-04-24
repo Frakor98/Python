@@ -4,6 +4,8 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 
 ## Projekty
 
+Chociaż nie mam jeszcze dużej wiedzy z języka Python, bardzo mnie ciekawi i jestem aktywnie w trakcie jego nauki. Staram się rozwijać swoje umiejętności poprzez tworzenie projektów, czytanie dokumentacji oraz korzystanie z różnych źródeł nauki. Mam nadzieję, że w miarę postępującego czasu, będę miał okazję podzielić się z Wami swoimi projektami napisanymi w języku Python.
+
 | Nazwa projektu | Opis | Link do repozytorium |
 | --- | --- | --- |
 | Flask Blog | Prosty blog internetowy napisany w Flasku | [Link](https://github.com/user/repo) |
@@ -12,8 +14,5 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 | Web Scraping Tool | Narzędzie do automatycznego pobierania danych z witryn internetowych | [Link](https://github.com/user/repo) |
 | Snake Game | Klasyczna gra w Snake'a napisana w Pythonie | [Link](https://github.com/user/repo) |
 
-Jeśli jesteś początkującym programistą, polecam przejrzeć projekty oznaczone jako "dla początkujących". Natomiast jeśli jesteś doświadczonym programistą, z pewnością zainteresują Cię bardziej zaawansowane projekty.
-
-Nie wahaj się również dodać swojego wkładu do repozytorium. Jeśli masz ciekawy projekt, który chcesz podzielić się z innymi, po prostu utwórz nowy branch i zacznij pracować nad swoim projektem.
 
 Dziękuję za odwiedzenie repozytorium i życzę miłego przeglądania!
