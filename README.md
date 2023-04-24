@@ -8,7 +8,7 @@ Chociaż nie mam jeszcze dużej wiedzy z języka Python, bardzo mnie ciekawi i j
 
 | Nazwa projektu | Opis | Link do repozytorium |
 | --- | --- | --- |
-| Flask Blog | Prosty blog internetowy napisany w Flasku | [Link](https://github.com/user/repo) |
+| Flask Blog | Prosty blog internetowy napisany w Flasku | [Link](https://github.com/Frakor98/Python/tree/main/FlaskBlog) |
 | Sudoku Solver | Solver do łamigłówki Sudoku | [Link](https://github.com/user/repo) |
 | Machine Learning Toolkit | Zbiór narzędzi do uczenia maszynowego | [Link](https://github.com/user/repo) |
 | Web Scraping Tool | Narzędzie do automatycznego pobierania danych z witryn internetowych | [Link](https://github.com/user/repo) |
